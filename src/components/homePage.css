@@ -1,0 +1,19 @@
+
+
+.container-home{
+    width: 100vh;
+    height: 100vh;
+    position: absolute;
+}
+
+.container-home img{
+    position: relative;
+    top: 30%;
+    left: 66%;
+}
+
+.container-home h1{
+    position: relative;
+    top: 24%;
+    left: 44%;
+}

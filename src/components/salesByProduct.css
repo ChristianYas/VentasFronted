@@ -1,0 +1,26 @@
+
+
+
+.table{
+    position: relative;
+    top: 40px;
+}
+
+.select-container {
+    width: 70%;
+    position: relative;
+    top: 100px;
+    left: 8%;
+    text-align: center;
+}
+
+.select-title {
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.total{
+    position: relative;
+    top: 100px;
+}
